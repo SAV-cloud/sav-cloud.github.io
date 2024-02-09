@@ -1,2 +1,2 @@
 # sav-cloud.github.io
-https://sav-cloud.github.io/index.html
+https://sav-cloud.github.io/
